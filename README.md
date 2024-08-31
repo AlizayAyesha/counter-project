@@ -1,6 +1,6 @@
 # React counter Project
 
-##Overview
+### Overview
 This is a React application created using `create-react-app`. It serves as a template for starting new React projects with a basic setup. The application features a simple counter component that increments and decrements a value.
 
 ## Features
